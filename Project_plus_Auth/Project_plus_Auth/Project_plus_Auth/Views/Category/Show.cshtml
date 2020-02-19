@@ -1,0 +1,199 @@
+﻿@model ProiectDaw.Models.Category
+@{
+    /**/
+
+    ViewBag.Title = "Afisare categorie";
+}
+<a href="/Category/Index"><img src="~/Assets/backArrow.png" class="backArrow" /></a>
+<p class="title"> @Model.CategoryName</p>
+</br >
+<div class="imgContainer">
+    <img src="@Url.Content(@Model.ImagePath)" class="img">
+</div>
+<div class="descriptionContainer">
+    <p class="categoryDescription"><strong>Description</strong> : @Model.CategoryDescription</p>
+</div>
+
+</br>
+</br>
+
+<p class="title">Games for this category :</p>
+</br>
+<div class="productsContainer">
+    @foreach (var product in Model.Products)
+    {
+        <div class="productContainer">
+            <img src="@Url.Content(@product.ImagePath)" class="productImg">
+            <p class="productTitle">@product.ProductName</p>
+            <p class="productCategory">
+                @product.Category.CategoryName
+            </p>
+            <div class="btnContainer">
+                <a class="btnTxt" href="/Product/Show/@product.ProductId">View Details</a>
+            </div>
+        </div>
+        <br />
+    }
+
+</div>
+
+
+<br />
+<hr />
+<br />
+
+@if (ViewBag.afisareButoane == true)
+{
+   using (Html.BeginForm(actionName: "Delete", controllerName: "Category", routeValues: new { id = @Model.CategoryId }))
+    {
+
+        @Html.HttpMethodOverride(HttpVerbs.Delete)
+
+        <button class="btn btn-success" type="submit">Sterge categoria</button>
+    }
+    <br />
+}
+
+
+
+
+
+<br />
+<hr />
+<br />
+<style>
+    .title {
+        text-align: center;
+        color: #465362;
+        font-size: 20px;
+        margin: 20px;
+        font-weight: 700;
+    }
+
+    .imgContainer {
+        padding: 10px;
+        position: relative;
+        width: 200px;
+        height: 200px;
+        border-radius: 100px;
+        border: 2px solid #465362;
+        background-color: #465362;
+        justify-content: center;
+        align-content: center;
+        align-self: center;
+        margin: auto;
+    }
+
+    .img {
+        align-self: center;
+        width: 100%;
+        margin: auto;
+        height: 100%;
+    }
+
+    .backArrow {
+        width: 30px;
+        height: 30px;
+        margin: 20px;
+        align-self: center;
+    }
+
+    .categoryDescription {
+        text-align: left;
+        color: #465362;
+        font-size: 20px;
+        margin: 20px;
+    }
+
+    .descriptionContainer {
+        border-radius: 10px;
+        width: 100%;
+        border: 2px solid #465362;
+        align-self: center;
+        margin: auto;
+        margin-top: 40px;
+        justify-content: flex-start;
+    }
+
+    .productsContainer {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 100%;
+    }
+
+    .productContainer {
+        border-radius: 25px;
+        align-self: center;
+        margin: auto;
+        justify-content: center;
+        width: 300px;
+        background-color: #F2F2F2;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .productImg {
+        width: 100%;
+        height: 200px;
+        border-top-left-radius: 25px;
+        border-top-right-radius: 25px;
+    }
+
+    .productTitle {
+        text-align: center;
+        color: #465362;
+        font-size: 20px;
+        margin: 20px;
+        font-weight: 700;
+    }
+
+    .productCategory {
+        text-align: center;
+        color: #3A405A;
+        font-size: 20px;
+        margin: 20px;
+        font-weight: 600;
+    }
+
+    .imgTxt {
+        text-align: center;
+    }
+
+    .btnContainer {
+        text-align: center;
+        background-color: #465362;
+        border-radius: 10px;
+        border: 2px solid #465362;
+        width: 60%;
+        margin: auto;
+        padding: 10px;
+        font-size: 18px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        opacity: 0.7;
+    }
+
+    .btnTxt {
+        color: #F2F2F2;
+        text-decoration: none;
+    }
+
+        .btnTxt:hover {
+            color: #F2F2F2;
+            text-decoration: none;
+        }
+
+        .btnTxt:active {
+            color: #F2F2F2;
+            text-decoration: none;
+        }
+
+
+    .btnContainer:hover {
+        opacity: 1;
+    }
+</style>
+
+
+

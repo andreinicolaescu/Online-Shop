@@ -1,0 +1,654 @@
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\Project_plus_Auth.dll.config
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\Project_plus_Auth.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\Project_plus_Auth.pdb
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\roslyn\csc.exe
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\roslyn\csc.exe.config
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\roslyn\csc.rsp
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\roslyn\csi.exe
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\roslyn\csi.exe.config
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\roslyn\csi.rsp
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.Managed.Core.targets
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.AppContext.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Collections.Immutable.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Console.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.IO.Compression.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.IO.FileSystem.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.IO.Pipes.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Reflection.Metadata.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Security.AccessControl.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Security.Claims.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Security.Principal.Windows.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.ValueTuple.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Xml.XmlDocument.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Xml.XPath.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\roslyn\vbc.exe
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\roslyn\vbc.exe.config
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\roslyn\vbc.rsp
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\roslyn\VBCSCompiler.exe
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\roslyn\VBCSCompiler.exe.config
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\Antlr3.Runtime.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\EntityFramework.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\EntityFramework.SqlServer.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.AspNet.Identity.Core.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.Cookies.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.Facebook.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.Google.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.OAuth.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.Twitter.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Web.Infrastructure.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\Newtonsoft.Json.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\Owin.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\System.Diagnostics.DiagnosticSource.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\System.Web.Helpers.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\System.Web.Mvc.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\System.Web.Optimization.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\System.Web.Razor.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\System.Web.WebPages.Deployment.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\System.Web.WebPages.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\System.Web.WebPages.Razor.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\WebGrease.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\System.Web.Helpers.xml
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\System.Web.Mvc.xml
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\System.Web.Optimization.xml
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\System.Web.Razor.xml
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\System.Web.WebPages.xml
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\System.Web.WebPages.Deployment.xml
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\System.Web.WebPages.Razor.xml
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\Newtonsoft.Json.xml
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\Antlr3.Runtime.pdb
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\EntityFramework.xml
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\EntityFramework.SqlServer.xml
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.AspNet.Identity.Core.xml
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.xml
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.xml
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.Facebook.xml
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.Cookies.xml
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.Google.xml
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.Twitter.xml
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.OAuth.xml
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\System.Diagnostics.DiagnosticSource.xml
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\obj\Debug\Project_plus_Auth.csprojAssemblyReference.cache
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\obj\Debug\Project_plus_Auth.csproj.CoreCompileInputs.cache
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\obj\Debug\Project_plus_Auth.csproj.CopyComplete
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\obj\Debug\Project_plus_Auth.dll
+D:\FACULTATE\AN III\SEM I\Dezvoltarea Apl. Web\Project_plus_Auth\Project_plus_Auth\obj\Debug\Project_plus_Auth.pdb
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Project_plus_Auth.dll.config
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Project_plus_Auth.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Project_plus_Auth.pdb
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\csc.exe
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\csc.exe.config
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\csc.rsp
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\csi.exe
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\csi.exe.config
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\csi.rsp
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.Managed.Core.targets
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.AppContext.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Collections.Immutable.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Console.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.IO.Compression.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.IO.FileSystem.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.IO.Pipes.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Reflection.Metadata.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Security.AccessControl.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Security.Claims.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Security.Principal.Windows.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.ValueTuple.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Xml.XmlDocument.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Xml.XPath.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\vbc.exe
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\vbc.exe.config
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\vbc.rsp
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\VBCSCompiler.exe
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\VBCSCompiler.exe.config
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Antlr3.Runtime.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\EntityFramework.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\EntityFramework.SqlServer.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.AspNet.Identity.Core.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.Cookies.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.Facebook.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.Google.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.OAuth.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.Twitter.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Web.Infrastructure.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Newtonsoft.Json.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Owin.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\System.Diagnostics.DiagnosticSource.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\System.Web.Helpers.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\System.Web.Mvc.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\System.Web.Optimization.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\System.Web.Razor.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\System.Web.WebPages.Deployment.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\System.Web.WebPages.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\System.Web.WebPages.Razor.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\WebGrease.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\System.Web.Helpers.xml
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\System.Web.Mvc.xml
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\System.Web.Optimization.xml
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\System.Web.Razor.xml
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\System.Web.WebPages.xml
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\System.Web.WebPages.Deployment.xml
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\System.Web.WebPages.Razor.xml
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Newtonsoft.Json.xml
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Antlr3.Runtime.pdb
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\EntityFramework.xml
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\EntityFramework.SqlServer.xml
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.AspNet.Identity.Core.xml
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.xml
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.xml
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.Facebook.xml
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.Cookies.xml
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.Google.xml
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.Twitter.xml
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.OAuth.xml
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\System.Diagnostics.DiagnosticSource.xml
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\obj\Debug\Project_plus_Auth.csprojAssemblyReference.cache
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\obj\Debug\Project_plus_Auth.csproj.CoreCompileInputs.cache
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\obj\Debug\Project_plus_Auth.csproj.CopyComplete
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\obj\Debug\Project_plus_Auth.dll
+D:\GitHub\Magazin-Online\Project_plus_Auth\Project_plus_Auth\obj\Debug\Project_plus_Auth.pdb
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Project_plus_Auth.dll.config
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Project_plus_Auth.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Project_plus_Auth.pdb
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\csc.exe
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\csc.exe.config
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\csc.rsp
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\csi.exe
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\csi.exe.config
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\csi.rsp
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.AppContext.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Collections.Immutable.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Console.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.IO.Compression.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.IO.FileSystem.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.IO.Pipes.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Reflection.Metadata.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Security.AccessControl.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Security.Claims.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.ValueTuple.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Xml.XPath.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\vbc.exe
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\vbc.exe.config
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\vbc.rsp
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\VBCSCompiler.exe
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\roslyn\VBCSCompiler.exe.config
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Antlr3.Runtime.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\EntityFramework.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\EntityFramework.SqlServer.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.Google.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Web.Infrastructure.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Newtonsoft.Json.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Owin.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\System.Web.Helpers.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\System.Web.Mvc.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\System.Web.Optimization.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\System.Web.Razor.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\System.Web.WebPages.Deployment.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\System.Web.WebPages.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\System.Web.WebPages.Razor.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\WebGrease.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\System.Web.Helpers.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\System.Web.Mvc.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\System.Web.Optimization.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\System.Web.Razor.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\System.Web.WebPages.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\System.Web.WebPages.Deployment.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\System.Web.WebPages.Razor.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Newtonsoft.Json.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Antlr3.Runtime.pdb
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\EntityFramework.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\EntityFramework.SqlServer.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.Google.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\obj\Debug\Project_plus_Auth.csprojAssemblyReference.cache
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\obj\Debug\Project_plus_Auth.csproj.CoreCompileInputs.cache
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\obj\Debug\Project_plus_Auth.csproj.CopyComplete
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\obj\Debug\Project_plus_Auth.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\obj\Debug\Project_plus_Auth.pdb
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Project_plus_Auth.dll.config
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Project_plus_Auth.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Project_plus_Auth.pdb
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\csc.exe
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\csc.exe.config
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\csc.rsp
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\csi.exe
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\csi.exe.config
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\csi.rsp
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.AppContext.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Collections.Immutable.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Console.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.IO.Compression.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.IO.FileSystem.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.IO.Pipes.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Reflection.Metadata.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Security.AccessControl.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Security.Claims.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.ValueTuple.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Xml.XPath.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\vbc.exe
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\vbc.exe.config
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\vbc.rsp
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\VBCSCompiler.exe
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\VBCSCompiler.exe.config
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Antlr3.Runtime.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\EntityFramework.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\EntityFramework.SqlServer.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.Google.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Web.Infrastructure.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Newtonsoft.Json.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Owin.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\System.Web.Helpers.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\System.Web.Mvc.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\System.Web.Optimization.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\System.Web.Razor.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\System.Web.WebPages.Deployment.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\System.Web.WebPages.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\System.Web.WebPages.Razor.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\WebGrease.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\System.Web.Helpers.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\System.Web.Mvc.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\System.Web.Optimization.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\System.Web.Razor.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\System.Web.WebPages.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\System.Web.WebPages.Deployment.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\System.Web.WebPages.Razor.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Newtonsoft.Json.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Antlr3.Runtime.pdb
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\EntityFramework.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\EntityFramework.SqlServer.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.Google.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\obj\Debug\Project_plus_Auth.csprojAssemblyReference.cache
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\obj\Debug\Project_plus_Auth.csproj.CoreCompileInputs.cache
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\obj\Debug\Project_plus_Auth.csproj.CopyComplete
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\obj\Debug\Project_plus_Auth.dll
+D:\Downloads\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\obj\Debug\Project_plus_Auth.pdb
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Project_plus_Auth.dll.config
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Project_plus_Auth.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Project_plus_Auth.pdb
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\csc.exe
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\csc.exe.config
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\csc.rsp
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\csi.exe
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\csi.exe.config
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\csi.rsp
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.AppContext.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Collections.Immutable.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Console.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.IO.Compression.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.IO.FileSystem.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.IO.Pipes.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Reflection.Metadata.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Security.AccessControl.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Security.Claims.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.ValueTuple.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Xml.XPath.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\vbc.exe
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\vbc.exe.config
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\vbc.rsp
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\VBCSCompiler.exe
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\VBCSCompiler.exe.config
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Antlr3.Runtime.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\EntityFramework.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\EntityFramework.SqlServer.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.Google.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Web.Infrastructure.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Newtonsoft.Json.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Owin.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\System.Web.Helpers.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\System.Web.Mvc.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\System.Web.Optimization.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\System.Web.Razor.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\System.Web.WebPages.Deployment.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\System.Web.WebPages.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\System.Web.WebPages.Razor.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\WebGrease.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\System.Web.Helpers.xml
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\System.Web.Mvc.xml
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\System.Web.Optimization.xml
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\System.Web.Razor.xml
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\System.Web.WebPages.xml
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\System.Web.WebPages.Deployment.xml
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\System.Web.WebPages.Razor.xml
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Newtonsoft.Json.xml
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Antlr3.Runtime.pdb
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\EntityFramework.xml
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\EntityFramework.SqlServer.xml
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.xml
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.xml
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.Google.xml
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\obj\Debug\Project_plus_Auth.csprojAssemblyReference.cache
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\obj\Debug\Project_plus_Auth.csproj.CoreCompileInputs.cache
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\obj\Debug\Project_plus_Auth.csproj.CopyComplete
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\obj\Debug\Project_plus_Auth.dll
+D:\Downloads\proiect\Magazin-Online\qwe\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\obj\Debug\Project_plus_Auth.pdb
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Project_plus_Auth.dll.config
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Project_plus_Auth.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Project_plus_Auth.pdb
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\csc.exe
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\csc.exe.config
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\csc.rsp
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\csi.exe
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\csi.exe.config
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\csi.rsp
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.AppContext.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Collections.Immutable.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Console.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.IO.Compression.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.IO.FileSystem.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.IO.Pipes.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Reflection.Metadata.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Security.AccessControl.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Security.Claims.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.ValueTuple.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Xml.XPath.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\vbc.exe
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\vbc.exe.config
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\vbc.rsp
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\VBCSCompiler.exe
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\roslyn\VBCSCompiler.exe.config
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Antlr3.Runtime.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\EntityFramework.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\EntityFramework.SqlServer.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.Google.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Web.Infrastructure.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Newtonsoft.Json.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Owin.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\System.Web.Helpers.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\System.Web.Mvc.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\System.Web.Optimization.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\System.Web.Razor.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\System.Web.WebPages.Deployment.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\System.Web.WebPages.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\System.Web.WebPages.Razor.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\WebGrease.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\System.Web.Helpers.xml
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\System.Web.Mvc.xml
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\System.Web.Optimization.xml
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\System.Web.Razor.xml
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\System.Web.WebPages.xml
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\System.Web.WebPages.Deployment.xml
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\System.Web.WebPages.Razor.xml
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Newtonsoft.Json.xml
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Antlr3.Runtime.pdb
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\EntityFramework.xml
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\EntityFramework.SqlServer.xml
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.xml
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.xml
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.Google.xml
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\obj\Debug\Project_plus_Auth.csprojAssemblyReference.cache
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\obj\Debug\Project_plus_Auth.csproj.CoreCompileInputs.cache
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\obj\Debug\Project_plus_Auth.csproj.CopyComplete
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\obj\Debug\Project_plus_Auth.dll
+D:\Informatica\Facultate\anul 3\DezApWeb\proiect\Magazin-Online\Project_plus_Auth\Project_plus_Auth\Project_plus_Auth\obj\Debug\Project_plus_Auth.pdb

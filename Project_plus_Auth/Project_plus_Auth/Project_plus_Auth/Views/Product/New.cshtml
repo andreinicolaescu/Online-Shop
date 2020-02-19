@@ -1,0 +1,60 @@
+﻿@model ProiectDaw.Models.Product
+
+@{
+    ViewBag.Title = "Adaugare produs";
+}
+
+<h2>@ViewBag.Title</h2>
+</br>
+
+@using (Html.BeginForm("New", "Product", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.ValidationSummary(false, "", new { @class = "text-danger" })
+
+    @Html.HiddenFor(m => m.UserId)
+
+    @Html.Label("ProductName", "Nume Produs")
+    <br />
+    @Html.TextBox("ProductName", null, new { @class = "form-control" })
+    @Html.ValidationMessageFor(m => m.ProductName, "", new { @class = "text-danger" })
+    <br /><br />
+
+
+    @Html.Label("ProductDescription", "Descriere Produs")
+    <br />
+    @Html.TextBox("ProductDescription", null, new { @class = "form-control" })
+    @Html.ValidationMessageFor(m => m.ProductDescription, "", new { @class = "text-danger" })
+    <br /><br />
+
+
+    @Html.Label("ProductPrice", "Pret Produs")
+    <br />
+    @Html.TextBox("ProductPrice", null, new { @class = "form-control" })
+    @Html.ValidationMessageFor(m => m.ProductPrice, "", new { @class = "text-danger" })
+    <br /><br />
+
+
+    //poza
+    @Html.Label("ProductPhoto", "Poza Produs")
+    <br /><br />
+    @Html.LabelFor(m => m.Image)
+    @Html.TextBoxFor(m => m.Image, new { type = "file" })
+    @Html.ValidationMessageFor(model => model.Image, "", new { @class = "text-danger" })
+    @Html.ValidationMessageFor(model => model.ImagePath, "", new { @class = "text-danger" })
+    //
+    <br /><br /><br />
+    <label>Selectati categoria</label>
+
+    @Html.DropDownListFor(m => m.CategoryId, new SelectList(Model.Categories, "Value", "Text"),
+        "Selectati categoria", new { @class = "form-control" })
+
+    @Html.ValidationMessageFor(m => m.CategoryId, "", new { @class = "text-danger" })
+    <br />
+
+    <button class="btn btn-sm btn-success" type="submit">Adauga produs</button>
+}
+
+
+
+
+

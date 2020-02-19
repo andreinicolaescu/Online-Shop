@@ -1,0 +1,166 @@
+﻿
+<p class="title">Aprove Products List</p>
+<div class="products">
+    @foreach (ProiectDaw.Models.Product product in ViewBag.Products)
+    {
+    <div class="container">
+        <div class="productContainer">
+            <img src="@Url.Content(@product.ImagePath)" class="img">
+            <p class="productTitle">@product.ProductName</p>
+            <p class="productCategory">
+                @product.Category.CategoryName
+            </p>
+            <div class="btnContainer">
+                <a class="btnTxt" href="/Product/Show/@product.ProductId">View Details</a>
+            </div>
+        </div>
+        <button class="aproveContainer" onclick="location.href='@Url.Action("AproveProduct", "Product", new {id = @product.ProductId})'"><p class="btnTxt">Aprove</p></button>
+        <div class="center-block divcentrat">
+            @using (Html.BeginForm(actionName: "Delete", controllerName: "Product", method: FormMethod.Post, routeValues: new { id = product.ProductId }))
+            {
+
+                @Html.HttpMethodOverride(HttpVerbs.Delete)
+
+                <button class="btn btn-danger" type="submit">Disapprove</button>
+
+            }
+        </div>
+       
+    </div>
+
+        <br />
+    }
+</div>
+
+
+<script>
+    function aproveFunction(id) {
+         
+    }
+</script>
+    <style>
+        .divcentrat{
+            align-self:center;
+        }
+        .products {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        .aproveContainer {
+            align-self: center;
+            text-align: center;
+            background-color: lightseagreen;
+            border-radius: 10px;
+            border: 2px solid lightseagreen;
+            height: 50px;
+            justify-content: center;
+            margin: auto;
+            padding: 10px;
+            font-size: 18px;
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
+        .disaproveContainer {
+            align-self: center;
+            text-align: center;
+            background-color: red;
+            border-radius: 10px;
+            border: 2px solid red;
+            height: 50px;
+            justify-content: center;
+            margin: auto;
+            padding: 10px;
+            font-size: 18px;
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
+            .container{
+          display:flex;
+          flex-direction:row;
+          justify-content:space-between;
+      }
+
+        .title {
+           
+            text-align: center;
+            color: #465362;
+            font-size: 20px;
+            margin: 20px;
+            font-weight: 700;
+        }
+
+        .productContainer {
+            margin: 20px;
+            border-radius: 25px;
+            border: 2px solid #465362;
+            justify-content: center;
+            width: 300px;
+            background-color: #F2F2F2;
+        }
+
+        .img {
+            width: 100%;
+            height: 200px;
+            border-top-left-radius: 25px;
+            border-top-right-radius: 25px;
+        }
+
+        .productTitle {
+            text-align: center;
+            color: #465362;
+            font-size: 20px;
+            margin: 20px;
+            font-weight: 700;
+        }
+
+        .productCategory {
+            text-align: center;
+            color: #3A405A;
+            font-size: 20px;
+            margin: 20px;
+            font-weight: 600;
+        }
+
+        .imgTxt {
+            text-align: center;
+        }
+
+        .btnContainer {
+            text-align: center;
+            background-color: #465362;
+            border-radius: 10px;
+            border: 2px solid #465362;
+            width: 60%;
+            margin: auto;
+            padding: 10px;
+            font-size: 18px;
+            margin-top: 20px;
+            margin-bottom: 20px;
+            opacity: 0.7;
+        }
+
+        .btnTxt {
+            color: #F2F2F2;
+            text-decoration: none;
+        }
+
+            .btnTxt:hover {
+                color: #F2F2F2;
+                text-decoration: none;
+            }
+
+            .btnTxt:active {
+                color: #F2F2F2;
+                text-decoration: none;
+            }
+
+
+        .btnContainer:hover {
+            opacity: 1;
+        }
+
+       
+    </style>
+
+

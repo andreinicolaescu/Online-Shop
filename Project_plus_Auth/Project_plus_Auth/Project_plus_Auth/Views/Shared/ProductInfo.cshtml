@@ -1,0 +1,84 @@
+﻿@model ProiectDaw.Models.Product
+<h1 class="title">@Model.ProductName</h1>
+<div class="productContainer">
+    <div class="imgContainer">
+        <img src="@Url.Content(Model.ImagePath)" class="img">
+    </div>
+    <div class="textContainer">
+        <br /><br />
+        Descriere Produs: <strong>@Model.ProductDescription</strong>
+        <br /><br />
+        Pret: <strong>@Model.ProductPrice</strong>
+        <br /><br />
+        Rating:
+        <img src="~/Assets/emptyStar.png" alt="Star Rating" align="middle" id="1" class="rating" mid="@Model.ProductId" onclick="location.href='@Url.Action("OnPressStar", "Product", new { id = Model.ProductId, stars = 1})'"/>
+        <img src="~/Assets/emptyStar.png" alt="Star Rating" align="middle" id="1" class="rating" mid="@Model.ProductId"  onclick="location.href='@Url.Action("OnPressStar", "Product", new { id = Model.ProductId, stars = 2})'"/>
+        <img src="~/Assets/emptyStar.png" alt="Star Rating" align="middle" id="1" class="rating" mid="@Model.ProductId"  onclick="location.href='@Url.Action("OnPressStar", "Product", new { id = Model.ProductId, stars = 3})'"/>
+        <img src="~/Assets/emptyStar.png" alt="Star Rating" align="middle" id="1" class="rating" mid="@Model.ProductId"  onclick="location.href='@Url.Action("OnPressStar", "Product", new { id = Model.ProductId, stars = 4})'"/>
+        <img src="~/Assets/emptyStar.png" alt="Star Rating" align="middle" id="1" class="rating" mid="@Model.ProductId" onclick="location.href='@Url.Action("OnPressStar", "Product", new { id = Model.ProductId, stars = 5})'"/>
+        <br /><br />
+        Category : <strong>@Model.Category.CategoryName</strong>
+        <br /><br />
+        <input class="btn btn-success" type="button" value="Adauga in cos" onclick="onClickCheckBox()" />
+        <br /><br />
+        <input class="btn btn-success" type="button" value="Adauga comentariu" onclick="onClickAddComment()" />
+        <br /><br />
+    </div>
+</div>
+
+
+
+<script type="text/javascript">
+   
+     function onClickStar(rating) {
+         alert("This is an HTML Alert Message." + rating);
+         var r = rating;
+         location.href='@Url.Action("OnPressStar", "Product", new { id = Model.ProductId})'
+    }
+
+
+    function onClickCheckBox() {
+        //alert("This is an HTML Alert Message.");
+        location.href='@Url.Action("OnPress", "Product",new {id = Model.ProductId})'
+    }
+
+    function onClickAddComment() {
+        //alert("This is an HTML Alert Message.");
+        location.href='@Url.Action("OnPressAddComment", "Product",new {id = Model.ProductId})'
+    }
+
+</script>
+
+<style>
+    .title {
+        text-align: center;
+        color: #465362;
+        font-size: 20px;
+        margin: 20px;
+        font-weight: 700;
+    }
+    .productContainer {
+        align-self: center;
+        margin: auto;
+        margin-bottom: 30px;
+        margin-top: 30px;
+        width: 80%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    
+     
+    }
+    .imgContainer{
+        width:40%;
+        margin:10px;
+    }
+    .img{
+        width:100%;   
+    }
+    .textContainer {
+        justify-content:center;
+        width: 40%;
+        margin: 10px;
+    }
+</style>

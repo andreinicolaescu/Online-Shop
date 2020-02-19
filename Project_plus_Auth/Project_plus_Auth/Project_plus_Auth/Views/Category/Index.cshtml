@@ -1,0 +1,121 @@
+﻿@{
+    ViewBag.Title = "All Categories";
+}
+<div class="titleContainer">
+    <div class="imgTitleContainer">
+        <p class="title">Show Products</p>
+        <a href="/Product/Index">
+            <img src="~/Assets/showCategories.png" class="addImg" />
+        </a>
+    </div>
+    <h2 class="title">@ViewBag.Title</h2>
+    <div class="imgTitleContainer">
+        <p class="title">Add Category</p>
+        <a href="/Category/New">
+            <img src="~/Assets/addProduct.png" class="addImg" />
+        </a>
+    </div>
+</div>
+
+@if (TempData.ContainsKey("message"))
+{
+    <h3 class="alert alert-info" role="alert">@ViewBag.message</h3>
+}
+
+@foreach (var category in ViewBag.Categories)
+{
+
+    <div class="categoryContainer">
+        <a href="/Category/Show/@category.CategoryId">
+            <div class="imgContainer">
+                <img src="@Url.Content(category.ImagePath)" class="img">
+            </div>
+        </a>
+        <p class="categoryTitle">@category.CategoryName</p>
+    </div>
+
+
+    if (ViewBag.afisareButoane == true )
+    {
+
+        <a class="btn btn-success" href="/Category/Edit/@category.CategoryId">Edit category</a>
+    }
+
+    <br />
+    <hr />
+    <br />
+}
+
+
+<style>
+    .title {
+        text-align: center;
+        color: #465362;
+        font-size: 24px;
+        margin: 30px;
+        font-weight: 700;
+    }
+
+    .categoryContainer {
+        display: flex;
+        justify-content: center;
+        align-self: center;
+        margin: auto;
+        width: 80%;
+        flex-direction: column;
+    }
+
+    .imgContainer {
+        position: relative;
+        width: 200px;
+        height: 200px;
+        border-radius: 100px;
+        border: 2px solid #465362;
+        justify-content: center;
+        align-content: center;
+        align-self: center;
+        margin: auto;
+    }
+
+    .img {
+        align-self: center;
+        width: 100%;
+        margin: auto;
+        height: 100%;
+        border-radius: 100px;
+    }
+
+        .img:hover {
+            background-color: #465362;
+        }
+
+    .categoryTitle {
+        margin: 10px;
+        text-align: center;
+        color: black;
+        font-weight: 700;
+        font-size: 17px;
+    }
+
+    .titleContainer {
+        align-self: center;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .addImg {
+        width: 30px;
+        height: 30px;
+        align-self: center;
+    }
+
+    .imgTitleContainer {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+</style>
+
+
+

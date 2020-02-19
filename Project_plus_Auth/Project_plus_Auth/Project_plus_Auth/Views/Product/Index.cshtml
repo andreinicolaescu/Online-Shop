@@ -1,0 +1,158 @@
+﻿@{
+    ViewBag.Title = "Product List";
+}
+
+<div class="titleContainer">
+    <div class="imgTitleContainer">
+        <p class="title">Show Categories</p>
+        <a href="/Category/Index">
+            <img src="~/Assets/showCategories.png" class="addImg" />
+        </a>
+    </div>
+    <h2 class="title">@ViewBag.Title</h2>
+    <div class="imgTitleContainer">
+        <p class="title">Add Product</p>
+        <a href="/Product/New">
+            <img src="~/Assets/addProduct.png" class="addImg" />
+        </a>
+    </div>
+</div>
+
+<hr />
+@if (TempData.ContainsKey("message"))
+{
+    <h3 class="alert alert-info" role="alert">@ViewBag.message</h3>
+}
+<div class="productsContainer">
+    @foreach (ProiectDaw.Models.Product product in ViewBag.Products)
+    {
+        <div class="productContainer">
+            <img src="@Url.Content(@product.ImagePath)" class="img">
+            <p class="productTitle">@product.ProductName</p>
+            <p class="productCategory">
+                @product.Category.CategoryName
+            </p>
+            <div class="btnContainer">
+                <a class="btnTxt" href="/Product/Show/@product.ProductId">View Details</a>
+            </div>
+        </div>
+        <br />
+    }
+</div>
+
+
+
+<br />
+
+<br /><br />
+<br />
+
+<style>
+    .productsContainer {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        width: 100%;
+    }
+
+    .title {
+        text-align: center;
+        color: #465362;
+        font-size: 20px;
+        margin: 20px;
+        font-weight: 700;
+    }
+
+    .productContainer {
+        margin: 20px;
+        border-radius: 25px;
+        border: 2px solid #465362;
+        justify-content: center;
+        width: 300px;
+        background-color: #F2F2F2;
+    }
+
+    .img {
+        width: 100%;
+        height: 200px;
+        border-top-left-radius: 25px;
+        border-top-right-radius: 25px;
+    }
+
+    .productTitle {
+        text-align: center;
+        color: #465362;
+        font-size: 20px;
+        margin: 20px;
+        font-weight: 700;
+    }
+
+    .productCategory {
+        text-align: center;
+        color: #3A405A;
+        font-size: 20px;
+        margin: 20px;
+        font-weight: 600;
+    }
+
+    .imgTxt {
+        text-align: center;
+    }
+
+    .btnContainer {
+        text-align: center;
+        background-color: #465362;
+        border-radius: 10px;
+        border: 2px solid #465362;
+        width: 60%;
+        margin: auto;
+        padding: 10px;
+        font-size: 18px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        opacity: 0.7;
+    }
+
+    .btnTxt {
+        color: #F2F2F2;
+        text-decoration: none;
+    }
+
+        .btnTxt:hover {
+            color: #F2F2F2;
+            text-decoration: none;
+        }
+
+        .btnTxt:active {
+            color: #F2F2F2;
+            text-decoration: none;
+        }
+
+
+    .btnContainer:hover {
+        opacity: 1;
+    }
+
+    .titleContainer {
+        align-self: center;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .addImg {
+        width: 30px;
+        height: 30px;
+        align-self: center;
+    }
+
+    .imgTitleContainer {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+</style>
+
+
+
+

@@ -1,0 +1,53 @@
+﻿
+@{
+    /**/
+
+    ViewBag.Title = "Comments List";
+}
+
+<h2>ShowAll</h2>
+
+<ul>
+    @foreach (Project_plus_Auth.Models.Comment comm in ViewBag.Comments)
+    {
+
+    <div class="commentContainer">
+        <li class="commentTxt">@comm.CommentTxt</li>
+        @using (Html.BeginForm(actionName: "Delete", controllerName: "Comment", method: FormMethod.Post, routeValues: new { id = comm.CommentId }))
+        {
+
+        @Html.HttpMethodOverride(HttpVerbs.Delete)
+        <br />
+        <button class="buton btn btn-danger" type="submit">Sterge commentariu</button>
+
+        }
+        <br />
+    </div>
+        
+    }
+
+</ul>
+
+<style>
+    .commentContainer {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        border-bottom: 1px solid #465362;
+        padding:10px;
+        align-self:center;
+        margin:auto;
+        width:80%;
+
+    }
+    .commentTxt{
+        margin:20px;
+        align-self:center;
+        text-align:center;
+    }
+    .buton{
+        margin-top:0px;
+        align-self:flex-end;
+    }
+</style>
+

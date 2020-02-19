@@ -1,0 +1,281 @@
+﻿
+@model ProiectDaw.Models.Product
+@{
+    /**/
+
+    ViewBag.Title = "Show";
+}
+<a href="/Product/Index"><img src="~/Assets/backArrow.png" class="backArrow" /></a>
+
+<h1 class="title">@Model.ProductName</h1>
+<div class="productContainer">
+    <div class="firstContainer">
+        <div class="imgContainer">
+            <img src="@Url.Content(Model.ImagePath)" class="img">
+        </div>
+        <div class="textContainer">
+            <strong>Owner:  @Model.User.UserName </strong>
+            <br /><br />
+            Description: <strong>@Model.ProductDescription</strong>
+            <br /><br />
+            Price: <strong>@Model.ProductPrice</strong>
+            <br /><br />
+            <div class="ratingContainer">
+                <p class="ratingTitle">Rating:</p>
+                @if (Request.IsAuthenticated)
+                {
+                    for (int i = 1; i <= ViewBag.Stars; i++)
+                    {
+
+                        <img src="~/Assets/fillStar.png" alt="Star Rating" align="middle" id="1" class="rating" mid="@Model.ProductId" onclick="location.href='@Url.Action("OnPressStar", "Product", new { id = Model.ProductId, stars = i})'" />
+                    }
+                    for (int i = ViewBag.Stars + 1; i <= 5; i++)
+                    {
+                        <img src="~/Assets/emptyStar.png" alt="Star Rating" align="middle" id="1" class="rating" mid="@Model.ProductId" onclick="location.href='@Url.Action("OnPressStar", "Product", new { id = Model.ProductId, stars = i})'" />
+                    }
+                }
+                else
+                {
+                    for (int i = 1; i <= ViewBag.Stars; i++)
+                    {
+
+                        <img src="~/Assets/fillStar.png" alt="Star Rating" align="middle" id="1" class="rating" mid="@Model.ProductId" onclick="notRegister()" />
+                    }
+                    for (int i = ViewBag.Stars + 1; i <= 5; i++)
+                    {
+                        <img src="~/Assets/emptyStar.png" alt="Star Rating" align="middle" id="1" class="rating" mid="@Model.ProductId" onclick="notRegister()" />
+                    }
+                }
+
+            </div>
+
+
+
+            <br />
+            Category : <strong>@Model.Category.CategoryName</strong>
+            <br /><br />
+            <div class="buttonsContainer">
+                @if (Request.IsAuthenticated)
+                {
+                    <input class="btn btn-primary" type="button" value="Add to cart" onclick="onClickCheckBox()" />
+                    <br /><br />
+                    <input class="btn btn-info" type="button" value="Add comment" onclick="onClickAddComment()" />
+                }
+                else
+                {
+
+                    <input class="btn btn-primary" type="button" value="Add to cart" onclick="notRegister()" />
+                    <input class="btn btn-info" type="button" value="Add comment" onclick="notRegister()" />
+
+                }
+
+            </div>
+            <br />
+
+
+        </div>
+      
+    </div>
+    <div class="secondContainer">
+        <h2 class="commentTitle">Reviews </h2>
+        <ul>
+            @foreach (string comment in ViewBag.Comments)
+            {
+                <li class="comment">@comment</li>
+                <br />
+            }
+        </ul>
+
+    </div>
+
+
+
+</div>
+    </div>
+
+
+
+
+<div class="adminBtnsContainer">
+    @if (ViewBag.afisareButoane == true && Model.UserId == ViewBag.utilizatorCurent
+       || ViewBag.esteAdmin)
+    {
+        <button class="btn btn-info" onclick="location.href='@Url.Action("Edit", "Product", new {id = Model.ProductId})'">
+            Edit product
+        </button>
+
+
+        <br /><br />
+
+        <button class="btn btn-success" onclick=" location.href='@Url.Action("ShowAll", "Comment", new {id = Model.ProductId})'">
+            Edit comments
+        </button>
+        <br /><br />
+
+    }
+    @if (ViewBag.afisareButoane == true && Model.UserId == ViewBag.utilizatorCurent
+            || ViewBag.esteAdmin)
+    {
+
+        using (Html.BeginForm(actionName: "Delete", controllerName: "Product", method: FormMethod.Post, routeValues: new { id = @Model.ProductId }))
+        {
+
+            @Html.HttpMethodOverride(HttpVerbs.Delete)
+          
+            <button class="btn btn-danger" type="submit">Delete product</button>
+
+        }
+    }
+    <br />
+    <hr />
+
+    <br /><br />
+</div>
+
+
+
+
+<script>
+
+    function onClickShowComment() {
+        //alert("This is an HTML Alert Message.");
+        location.href='@Url.Action("ShowAll", "Comment", new {id = Model.ProductId})'
+    }
+
+     function onClickStar(rating) {
+         alert("This is an HTML Alert Message." + rating);
+         var r = rating;
+         location.href='@Url.Action("OnPressStar", "Product", new { id = Model.ProductId})'
+    }
+
+    function notRegister() {
+         location.href='@Url.Action("Register", "Account")'
+    }
+
+
+    function onClickCheckBox() {
+        //alert("This is an HTML Alert Message.");
+     
+    
+        location.href='@Url.Action("OnPress", "Product",new {id = Model.ProductId})'
+    }
+
+    function onClickAddComment() {
+        //alert("This is an HTML Alert Message.");
+        location.href='@Url.Action("OnPressAddComment", "Product",new {id = Model.ProductId})'
+    }
+
+
+</script>
+
+<style>
+    .buttonsContainer {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        padding: 10px;
+        padding-left:0px;
+        align-self: flex-start;
+        align-content:flex-start;
+        width: 90%;
+      
+    }
+
+    .firstContainer {
+        height: 70%;
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        border-bottom: 2px solid #465362;
+    }
+
+    .backArrow {
+        width: 30px;
+        height: 30px;
+        margin: 20px;
+        align-self: center;
+    }
+
+    .title {
+        text-align: center;
+        color: #465362;
+        font-size: 20px;
+        margin: 20px;
+        font-weight: 700;
+    }
+
+    .productContainer {
+        align-self: center;
+        margin: auto;
+        margin-bottom: 30px;
+        margin-top: 30px;
+        width: 80%;
+        height:auto;
+        border-radius: 25px;
+        border: 2px solid #465362;
+    }
+
+    .imgContainer {
+        width: 45%;
+        height: auto;
+        margin-right: 10px;
+        justify-content: center;
+    }
+
+    .img {
+        width: 100%;
+        height:300px;
+        border-top-left-radius: 25px;
+    }
+
+    .rating{
+        width:20px;
+        height:20px;
+     
+    }
+
+    .textContainer {
+        justify-content: center;
+        width: 45%;
+        margin-left: 10px;
+        height: 100%;
+    }
+
+    .secondContainer {
+        justify-content: center;
+    }
+
+    .commentTitle {
+        text-align: center;
+        color: #465362;
+        font-size: 20px;
+        margin: 20px;
+        font-weight: 700;
+    }
+    .comment {
+        text-align: left;
+        color: #465362;
+        font-size: 17px;
+        margin: 7px;
+        font-weight: 500;
+    }
+    .ratingContainer{
+        display:flex;
+        flex-direction:row;
+      
+    }
+    .ratingTitle {
+        align-self: center;
+        color: #465362;
+        font-size: 17px;
+        font-weight: 700;
+        margin-right:10px;
+    }
+   .adminBtnsContainer{
+       padding:20px;
+     
+     
+       
+   }
+</style>

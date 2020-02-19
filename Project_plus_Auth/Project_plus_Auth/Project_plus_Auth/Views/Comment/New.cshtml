@@ -1,0 +1,25 @@
+﻿
+@model Project_plus_Auth.Models.Comment
+
+@{
+    ViewBag.Title = "Adaugare commentariu";
+}
+
+<h2>@ViewBag.Title</h2>
+</br>
+
+@using (Html.BeginForm("New", "Comment", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.ValidationSummary(false, "", new { @class = "text-danger" })
+
+    @Html.HiddenFor(m => m.CommentProductId)
+
+    @Html.Label("CommentTxt", "Continut commentariu")
+    <br />
+    @Html.TextBox("CommentTxt", null, new { @class = "form-control" })
+    @Html.ValidationMessageFor(m => m.CommentTxt, "", new { @class = "text-danger" })
+    <br /><br />
+
+    <button class="btn btn-sm btn-success" type="submit">Adauga comment</button>
+}
+

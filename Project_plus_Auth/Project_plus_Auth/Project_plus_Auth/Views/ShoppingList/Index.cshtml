@@ -1,0 +1,121 @@
+﻿@model Project_plus_Auth.Models.ShoppingList
+@{
+    ViewBag.Title = "Index";
+}
+
+<p class="title">Shopping Cart </p>
+
+</br>
+@foreach (var prod in ViewBag.l)
+{
+  
+<div class="mainContainer">
+    <div class="productContainer">
+        <img src="@Url.Content(prod.ImagePath)" class="img">
+        <p class="productTitle">@prod.ProductName</p>
+        <p class="productCategory">
+            @prod.Category.CategoryName
+        </p>
+    </div>
+    <div class="priceContainer">
+        <p>$ @prod.ProductPrice</p>
+    </div>
+    <div class="quantityContainer">
+        <img src="~/Assets/addProduct.png" class="removeIcon" onclick=" location.href='@Url.Action("OnPressIncrement", "ShoppingList", new { id = prod.ProductId})'" />
+        <p class="quantity">@prod.orderQuantity</p>
+        <img src="~/Assets/minusIcon.png" class="removeIcon" onclick=" location.href='@Url.Action("OnPressDecrement", "ShoppingList", new { id = prod.ProductId })'" />
+    </div>
+    <div class="removeIconContainer">
+        <img src="~/Assets/removeIcon.png" class="removeIcon" onclick=" location.href='@Url.Action("OnPressRemoveProduct", "ShoppingList", new { id = prod.ProductId})'"/>
+    </div>
+</div>
+}
+<div class="totalPriceContainer">
+    <p class="priceTxt"><strong>Total: $</strong>@ViewBag.totalPrice</p>
+</div>
+
+<script>
+     function onClickRemoveProduct(id) {
+         alert("This is an HTML Alert Message.");
+        
+    }
+</script>
+<style>
+    .title {
+        text-align: center;
+        color: #465362;
+        font-size: 20px;
+        margin: 20px;
+        font-weight: 700;
+    }
+    .productContainer {
+        margin: 20px;
+        border-radius: 25px;
+        border: 2px solid #465362;
+        justify-content: center;
+        width: 150px;
+        background-color: #F2F2F2;
+    }
+    .priceContainer{
+        align-self:center;
+        justify-content:center;
+    }
+    .quantityContainer {
+        align-self: center;
+        justify-content: center;
+        display:flex;
+        flex-direction:row;
+    }
+    .quantity{
+        margin:10px;
+        align-self:center;
+    }
+    .img {
+        width: 100%;
+        height: 100px;
+        border-top-left-radius: 25px;
+        border-top-right-radius: 25px;
+    }
+    .productTitle {
+        text-align: center;
+        color: #465362;
+        font-size: 15px;
+        margin: 20px;
+        font-weight: 700;
+    }
+    .productCategory {
+        text-align: center;
+        color: #3A405A;
+        font-size: 15px;
+        margin: 20px;
+        font-weight: 600;
+    }
+    .mainContainer{
+        width:100%;
+        display:flex;
+        flex-direction:row;
+        justify-content:space-between;
+    }
+    .removeIconContainer {
+        align-self: center;
+        justify-content: center;
+    }
+    .removeIcon{
+        width:35px;
+        height:35px;
+        align-self:center;
+    }
+    .totalPriceContainer {
+    
+        justify-content: flex-end;
+        display: flex;
+    }
+    .priceTxt {
+        text-align: center;
+        color: #465362;
+        font-size: 20px;
+        margin: 20px;
+     
+    }
+</style>
+
